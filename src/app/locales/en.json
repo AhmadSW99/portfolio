@@ -1,0 +1,44 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "certifications": "Certifications",
+    "skills": "Skills",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hey, there",
+    "title": "I AM AHMAD",
+    "subtitle": "Software Engineering Student & Web Developer",
+    "description": "Specialized in Frontend Development, Web Applications, and AI-Powered Tools.",
+    "button": "Available for Internship Opportunities"
+  },
+  "about": {
+    "title": "About Me",
+    "p1": "Ahmad is a final-year software engineering student at King Saud University...",
+    "p2": "He's also interested in AI, computer vision, and Arabic media."
+  },
+  "projects": {
+    "title": "Recent Projects"
+  },
+  "certifications": {
+    "title": "Certifications",
+    "desc": "Professional certifications and achievements"
+  },
+  "skills": {
+    "title": "Experience & Skills",
+    "desc": "Technologies and tools I work with"
+  },
+  "contact": {
+    "title": "Let's Connect",
+    "desc": "Feel free to reach out...",
+    "email": "Email",
+    "name": "Name",
+    "message": "Message",
+    "button": "Send Message"
+  },
+  "footer": {
+    "copyright": "All rights reserved."
+  }
+}

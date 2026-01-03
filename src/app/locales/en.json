@@ -10,14 +10,14 @@
   "hero": {
     "greeting": "Hey, there",
     "title": "I AM AHMAD",
-    "subtitle": "Software Engineering Student & Web Developer",
-    "description": "Specialized in Frontend Development, Web Applications, and AI-Powered Tools.",
-    "button": "Available for Internship Opportunities"
+    "subtitle": "AI Engineer & Software Developer",
+    "description": "Specialized in Multi-Agent AI Systems, LangChain, LangGraph, and Cloud Deployment on GCP.",
+    "button": "Open to Work Opportunities"
   },
   "about": {
     "title": "About Me",
-    "p1": "Ahmad is a final-year software engineering student at King Saud University...",
-    "p2": "He's also interested in AI, computer vision, and Arabic media."
+    "p1": "I am Ahmad Alawwad, a fresh graduate Software Engineer from King Saud University.",
+    "p2": "I'm focused on AI and Machine Learning, building impactful applications."
   },
   "projects": {
     "title": "Recent Projects"

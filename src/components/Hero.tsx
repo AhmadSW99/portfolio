@@ -40,7 +40,7 @@ export default function Hero() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-lg md:text-xl text-black max-w-2xl mx-auto"
           >
-            Software Engineering Student & Web Developer
+            AI Full Stack Developer
           </motion.p>
           <motion.p 
             initial={{ opacity: 0, y: 20 }}
@@ -62,7 +62,7 @@ export default function Hero() {
                 whileTap={{ scale: 0.95 }}
                 className="inline-flex items-center px-6 py-3 border border-orange-400 text-base font-medium rounded-md text-black bg-orange-400 hover:bg-copper-500 hover:border-copper-500 shadow-lg transition-all"
               >
-                Available for Internship Opportunities
+                Available for Job Opportunities
               </motion.button>
             </Link>
           </motion.div>

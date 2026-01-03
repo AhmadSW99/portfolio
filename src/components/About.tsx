@@ -47,13 +47,14 @@ export default function About() {
               className="text-lg md:text-xl text-black space-y-6"
             >
               <p>
-                Ahmad is a final-year software engineering student at King Saud University. 
-                He is passionate about frontend technologies like React and Next.js, as well as backend 
-                frameworks like Node.js and NestJS.
+                I am Ahmad Alawwad, a fresh graduate Software Engineer from King Saud University. 
+                I have hands-on experience building end-to-end AI solutions — from multi-agent systems 
+                using LangChain and LangGraph, to frontend interfaces using AG-UI protocol, to cloud 
+                deployment on GCP.
               </p>
               <p>
-                He&apos;s also interested in AI, computer vision, and building impactful applications. 
-                Ahmad enjoys Arabic cultural media and creative writing.
+                I&apos;m capable of delivering full-stack AI applications independently, including agent 
+                development, UI integration, and production infrastructure.
               </p>
             </motion.div>
           </div>

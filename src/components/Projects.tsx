@@ -6,6 +6,22 @@ import Link from 'next/link';
 
 const projects = [
 	{
+		title: 'Jira/Bitbucket Agent',
+		description:
+			'RAG + MCP system combining Retrieval-Augmented Generation with Model Context Protocol servers in Docker. Query documents via Chroma + OpenAI embeddings and orchestrate workflows using LangGraph.',
+		image: '/RAG.png',
+		tech: ['LangGraph', 'MCP', 'RAG', 'Docker'],
+		link: 'https://github.com/AhmadSW99/jira_bitbucket_agent',
+	},
+	{
+		title: 'RFP to SRS Agent System',
+		description:
+			'AI-powered multi-agent system that converts RFP documents into SRS documents. Uses specialized AI agents for different SRS sections in formal Arabic with human-in-the-loop approval.',
+		image: '/RFPSRS.png',
+		tech: ['LangChain', 'LangGraph', 'Multi-Agent', 'Python'],
+		link: 'https://github.com/AhmadSW99/RFP_T0_SRS_AGENT',
+	},
+	{
 		title: 'Mosque Water Platform',
 		description:
 			'Full-stack application using Next.js, ExpressJS, and MongoDB to monitor and optimize water usage in mosques.',

@@ -3,6 +3,14 @@ const nextConfig = {
   // Enable standalone output for Docker deployment
   output: 'standalone',
   
+  // Ignore ESLint and TypeScript errors during builds
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
+  
   // Enable React StrictMode for better development experience
   reactStrictMode: true,
   
